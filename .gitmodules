@@ -1,0 +1,6 @@
+[submodule "graduate_thesis"]
+	path = graduate_thesis
+	url = https://github.com/tttm15012001/graduate_thesis.git
+[submodule "src/iq_sim"]
+	path = src/iq_sim
+	url = https://github.com/tttm15012001/graduate_thesis.git
