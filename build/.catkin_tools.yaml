@@ -1,0 +1,6 @@
+devel_space: /home/vnntttm/ws/devel
+install: false
+install_space: /home/vnntttm/ws/install
+profile: default
+source_space: /home/vnntttm/ws/src
+workspace: /home/vnntttm/ws
