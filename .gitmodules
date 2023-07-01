@@ -7,3 +7,6 @@
 [submodule "src/iq_gnc"]
 	path = src/iq_gnc
 	url = https://github.com/tttm15012001/graduate_thesis.git
+[submodule "src/mavlink"]
+	path = src/mavlink
+	url = https://github.com/tttm15012001/graduate_thesis.git
